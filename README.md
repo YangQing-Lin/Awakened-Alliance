@@ -1,6 +1,11 @@
-# hail_of_bullets
+# Awakened Alliance（觉醒联盟）
+
+## 计算机专业毕业设计
+
+
 
 ## Project setup
+
 ```
 yarn install
 ```
