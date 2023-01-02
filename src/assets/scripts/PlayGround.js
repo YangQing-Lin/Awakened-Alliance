@@ -15,7 +15,7 @@ export class PlayGround extends AcGameObject {
         this.players = [];
         this.players.push(new Player(this, this.width / 2, this.height / 2, this.height * 0.05, "white", this.height * 0.3, "me"));
 
-        for (let i = 0; i < 1; i++) {
+        for (let i = 0; i < 10; i++) {
             this.players.push(new Player(this, this.width / 2, this.height / 2, this.height * 0.05, this.get_random_color(), this.height * 0.3, "robot"));
         }
     }
